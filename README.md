@@ -1,14 +1,14 @@
 Happy Birthday
 
-A Happy Birthday animation design in CSS3, HTML5.
+A Happy Birthday animation design in CSS3, and HTML5.
 
-URL: http://ayusharma.github.io/birthday/
+URL: https://fullstackrakibul.github.io/birthday/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
 # Setup
 
-## If you have python installed:
+## If you have Python installed:
 ```
 cd Birthday
 ```
